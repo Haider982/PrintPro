@@ -1,0 +1,1 @@
+local request = http.get("https://raw.githubusercontent.com/Haider982/PrintPro/refs/heads/main/main.lua") local code = request.readAll() load(code)()
