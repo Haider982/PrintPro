@@ -1,4 +1,7 @@
-# Installation Instructions for loader.lua in CC: Tweaked Computers
+# PrintPro
+PrintPro provides an easy and advanced way to print 
+
+# Installation Instructions
 
 ## Prerequisites
 1. Ensure you have a CC: Tweaked computer running.
@@ -18,7 +21,7 @@
 - This opens the text editor for the new file.
 
 ### Step 3: Copy the Loader Code
-- Visit the source where the `loader.lua` code is hosted (such as GitHub).
+- Visit the source where the `loader.lua` code is hosted.
 - Select all the code in the `loader.lua` file and copy it to your clipboard.
 
 ### Step 4: Paste the Code into Your Computer
@@ -34,8 +37,3 @@
   ```
   lua loader.lua
   ```
-
-### Additional Notes
-- Ensure the `loader.lua` file is in the same directory as any other required files for proper functionality.
-
-By following these steps, you will be able to successfully copy and run the `loader.lua` file on your CC: Tweaked computer.
