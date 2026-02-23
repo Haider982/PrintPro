@@ -1,5 +1,5 @@
 # PrintPro
-PrintPro provides an easy and advanced way to print 
+PrintPro provides an easy and advanced way to print on CC tweaked computers.
 
 # Installation Instructions
 
@@ -35,5 +35,6 @@ PrintPro provides an easy and advanced way to print
 ### Step 6: Run the Loader
 - Back in the terminal, you can run the loader by typing:
   ```
-  lua loader.lua
+  loader.lua
   ```
+From the directory loader.lua is located.
