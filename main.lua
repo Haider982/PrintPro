@@ -24,7 +24,7 @@ while true do
     local Choice = read()
 
     if Choice:lower() ~= "y" then
-        print("Bye bye!")
+        print("Bye!")
         break
     end
 end
